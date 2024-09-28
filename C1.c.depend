@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727432855 source:c:\users\ycode\desktop\calculatrice en c\c1.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
